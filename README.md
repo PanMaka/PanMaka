@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A guy that loved computers since the day he was born</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panmaka&label=Profile%20views&color=0e75b6&style=flat" alt="panmaka" /> </p>
 
