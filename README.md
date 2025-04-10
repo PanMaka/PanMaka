@@ -4,7 +4,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/panagiotis makaronas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="panagiotis makaronas" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/panagiotis-makaronas-89ba25333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="panagiotis makaronas" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/30176185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="30176185" height="30" width="40" /></a>
 <a href="https://instagram.com/panossm4k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="panossm4k" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/panmaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="panmaka" height="30" width="40" /></a>
